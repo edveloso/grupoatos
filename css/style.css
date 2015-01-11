@@ -65,10 +65,9 @@ p a:hover {
 	width: 130px;
 }
 #header div#figure {
-	background: url(../images/logo_eeba.jpg) no-repeat;
-	background-size: 300px;
-	background-position: 30%;
-	height: 407px;
+	background: url(../images/logo_eeba_2.jpg) no-repeat center;
+	background-size: 700px;	
+	height: 337px;
 	margin: 0;
 	padding: 0 0 35px;
 	position: relative;
@@ -110,7 +109,7 @@ p a:hover {
 	text-align: center;
 	text-decoration: none;
 	text-shadow: 0 1px #ffc600;
-	text-transform: lowercase;
+	
 }
 #header div#figure div ul {
 	float: none;
@@ -359,14 +358,14 @@ p a:hover {
 	width: 260px;
 }
 #body div div div div#content div#blog ul li div#applerecipe {
-	background: url(../images/fotoatos_2.png) no-repeat;
+	background: url(../images/fotoatos_2_g.jpg) no-repeat;
 
 }
 #body div div div div#content div#blog ul li div#cakeapple {
 	background: url(../images/fotoatos_5.png) no-repeat;
 }
 #body div div div div#content div#blog ul li div#healthy {
-	background: url(../images/fotoatos_8.png) no-repeat;
+	background: url(../images/fotoatos_6.png) no-repeat;
 }
 #body div div div div#content div#blog div#paging {
 	background: none;
